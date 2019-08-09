@@ -9,10 +9,13 @@
 
 </Property>
 	<Item Name="_support" Type="Folder">
-		<Item Name="systemlink repo.ctl" Type="VI" URL="../_support/systemlink repo.ctl"/>
+		<Item Name="systemlink connection.ctl" Type="VI" URL="../_support/systemlink connection.ctl"/>
+		<Item Name="Get State ID.vi" Type="VI" URL="../_support/Get State ID.vi"/>
 	</Item>
 	<Item Name="Open SystemLink Connection.vi" Type="VI" URL="../Open SystemLink Connection.vi"/>
 	<Item Name="List All SystemLink States.vi" Type="VI" URL="../List All SystemLink States.vi"/>
+	<Item Name="Get State Data.vi" Type="VI" URL="../Get State Data.vi"/>
 	<Item Name="Export State.vi" Type="VI" URL="../Export State.vi"/>
+	<Item Name="Import State.vi" Type="VI" URL="../Import State.vi"/>
 	<Item Name="Close SystemLink Connection.vi" Type="VI" URL="../Close SystemLink Connection.vi"/>
 </Library>
